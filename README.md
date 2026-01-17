@@ -19,7 +19,7 @@
 
 | Judul | Tahun | hasil |
 | :---: | :---: | :---: |
-| Aku Gey | 2024 | AKU JADI NORMAL |
+
 
 
 # Clone disini
