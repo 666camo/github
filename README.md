@@ -28,7 +28,12 @@
     git clone https://github.com/666camo/github
 ```
 
-![Hu Tao](https://raw.githubusercontent.com/Yuuashura/assets/refs/heads/main/hutau.gif)
+# Hutao Image
+
+<center>
+<img src="https://raw.githubusercontent.com/Yuuashura/assets/refs/heads/main/hutau.gif" width="100px" height="100px">
+</center>
+
 
 [Link](https://raw.githubusercontent.com/Yuuashura/assets/refs/heads/main/hutau.gif)
 
